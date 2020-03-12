@@ -55,6 +55,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
+# dotenv environment vsariables file
 .env
 README.md
