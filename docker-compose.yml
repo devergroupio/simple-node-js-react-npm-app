@@ -33,6 +33,6 @@ services:
 volumes: 
     jenkins-docker-certs:
     jenkins-data:
-networks: 
+networks: s
     jenkins:
         driver: bridge
