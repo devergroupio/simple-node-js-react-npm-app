@@ -29,7 +29,7 @@ services:
             - "50000:50000" 
         volumes: 
             - jenkins-docker-certs:/certs/client:ro
-            - jenkins-data:/var/jenkins_home
+            - jenkins-data:/var/jenkins_homes
 volumes: 
     jenkins-docker-certs:
     jenkins-data:
